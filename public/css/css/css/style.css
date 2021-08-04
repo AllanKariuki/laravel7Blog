@@ -1,0 +1,26 @@
+html,
+body,
+header,
+
+#allan{
+	height:100%;
+}
+#allan{
+	background:url("img/sample.jpg");
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+#landing_page{
+    color: white;
+    border-radius: 0px 0px 500px 50px ;
+    height: 300px;
+    margin-top: -20px;
+    background: 1a0033; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left top, rgb(37, 21, 110), rgb(108, 69, 180)); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(bottom right, rgb(37, 21, 110), rgb(108, 69, 180)); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(bottom right, rgb(37, 21, 110), rgb(108, 69, 180)); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to bottom right, rgb(37, 21, 110), rgb(108, 69, 180)); /* Standard syntax */
+}
